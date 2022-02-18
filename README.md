@@ -2,9 +2,6 @@
 
 I'm Najma! I'm currently learning Software Engineering at the School of Code! 
 
-(https://github-readme-stats.vercel.app/api?username=najma-e)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **najma-e/najma-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
