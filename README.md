@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Najma! I'm currently learning Software Engineering at the School of Code! 
-
 
 ![Najma's GitHub stats](https://github-readme-stats.vercel.app/api?username=najma-e)
 
